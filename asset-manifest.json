@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SimpleLoginApp_ReactUI/static/css/main.3bf6ec8d.css",
+    "main.js": "/SimpleLoginApp_ReactUI/static/js/main.3aa178e6.js",
+    "static/js/787.4a07ba02.chunk.js": "/SimpleLoginApp_ReactUI/static/js/787.4a07ba02.chunk.js",
+    "index.html": "/SimpleLoginApp_ReactUI/index.html",
+    "main.3bf6ec8d.css.map": "/SimpleLoginApp_ReactUI/static/css/main.3bf6ec8d.css.map",
+    "main.3aa178e6.js.map": "/SimpleLoginApp_ReactUI/static/js/main.3aa178e6.js.map",
+    "787.4a07ba02.chunk.js.map": "/SimpleLoginApp_ReactUI/static/js/787.4a07ba02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bf6ec8d.css",
+    "static/js/main.3aa178e6.js"
+  ]
+}
